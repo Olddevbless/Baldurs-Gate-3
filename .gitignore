@@ -1,0 +1,61 @@
+# Project Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b
+# ignore other Baldurs Gate 3 files
+bin/
+DotNetCore/
+Launcher/
+InstallScript.vdf
+DigitalDeluxe/
+# Data
+!Data/
+Data/*
+# Editor directory
+!Data/Editor/
+Data/Editor/*
+!Data/Editor/Mods/
+Data/Editor/Mods/*
+!Data/Editor/Mods/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b
+# Mods directory
+!Data/Mods/
+Data/Mods/*
+!Data/Mods/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b
+Data/Mods/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b/Story/Dialogs/Autosave/*
+Data/Mods/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b/Story/Dialogs/Recovered/*
+# Parse Projects
+!Data/Projects/
+Data/Projects/*
+!Data/Projects/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b
+# Parse Public
+!Data/Public/
+Data/Public/*
+!Data/Public/Assignment1_3a2fdf97-5b65-70d8-dfe9-76ca7c027f7b
+# Story build files
+goals.raw
+story.div
+story.div.osi
+story_ac.dat
+story_header.div
+# AI grid generate files
+aigridmeta.data
+aigridpainted.data
+aigrid.data
+navigationPortals.lsf
+# minimap files
+**/Minimaps/*
+MinimapAtlas.mmxml
+# ignore logs
+*.log
+*.ailog
+log.txt
+errors.txt
+dialoglog.txt
+personallog.txt
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
