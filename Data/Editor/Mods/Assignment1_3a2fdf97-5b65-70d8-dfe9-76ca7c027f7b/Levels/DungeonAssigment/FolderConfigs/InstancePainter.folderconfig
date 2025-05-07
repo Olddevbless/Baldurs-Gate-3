@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Folders>
+  <Folder Name="Mushrooms">
+    <InstanceVisual GUID="abc0ef96-575e-a614-46d1-d0203fae6a18" />
+    <InstanceVisual GUID="60ea85ea-ace6-dced-1406-ca51159051d8" />
+    <InstanceVisual GUID="ea986ec9-7415-19cb-375a-707561dd88cf" />
+    <InstanceVisual GUID="a9f296da-3fb3-70e6-59c4-202c50d4d117" />
+    <InstanceVisual GUID="e99bd2e4-b813-ce3e-9d72-409f9578f406" />
+    <InstanceVisual GUID="8757a2a1-9899-0d3f-ab39-1f57ae735017" />
+    <InstanceVisual GUID="093b4b20-20c4-52ec-1980-2d9e2e0b5e45" />
+    <InstanceVisual GUID="522f155f-0ad6-cb3c-2947-78a74f0977e2" />
+    <InstanceVisual GUID="75c8276c-606a-eff5-dc12-a78730bf06f2" />
+    <InstanceVisual GUID="c54810e7-fc79-ad19-722f-73dddddaf915" />
+    <InstanceVisual GUID="121ac6bb-0ec5-9ca0-17df-8b4eebd82716" />
+    <InstanceVisual GUID="92f0fcc8-3619-45b6-1ce6-0c88abaa4c6f" />
+    <InstanceVisual GUID="f23d92a3-ec34-c679-f7e5-8f2772e50471" />
+  </Folder>
+</Folders>
